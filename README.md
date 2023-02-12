@@ -4,7 +4,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/afturkel/afturkel/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
 
