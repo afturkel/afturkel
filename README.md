@@ -12,6 +12,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<p align="center">
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=Dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,10 +22,13 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)&nbsp;
 
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=Windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)&nbsp;
+  
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -38,6 +42,6 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/ahmetfatihtuerkel"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmetfatihtuerkel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:afturkel@gmail.com"><img src="https://img.shields.io/badge/-afturkel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
