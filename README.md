@@ -26,8 +26,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=Windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)&nbsp;
-  
-</p>
+  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -41,7 +40,7 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/ahmetfatihtuerkel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmetfatihtuerkel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="mailto:afturkel@gmail.com"><img src="https://img.shields.io/badge/-afturkel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:afturkel@gmail.com"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat&logo=Quora&logoColor=white"/></a>
 </p>
