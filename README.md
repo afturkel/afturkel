@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Ahmet Fatih <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learner +&+ Researcher+&+ Developer;+Mathematics;%20Algorithms%20|%20OOP%20;Cogito%20ergo%20sum&center=true&width=500&height=50"></a>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!;++;Programming+Enthousiast;Mathematics;Algorithms;Learning/Researching+Enjoyer"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
